@@ -1,4 +1,4 @@
 streamlit
 pandas
-fpdf
-streamlit-gsheets
+fpdf2
+st-gsheets-connection
